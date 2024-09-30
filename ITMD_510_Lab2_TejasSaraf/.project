@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>ITMD_510_Lab2_TejasSaraf</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>src/bank-Detail.csv</name>
+			<type>1</type>
+			<location>C:/Users/SCV/Downloads/lab_2 (1)/lab 2/bank-Detail.csv</location>
+		</link>
+	</linkedResources>
+</projectDescription>
