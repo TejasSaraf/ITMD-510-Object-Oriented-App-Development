@@ -1,0 +1,12 @@
+Average income Females: $28646.32
+Average income Males: $27225.83
+
+Num. of females with mortgage and savings acc: 71
+
+INNER_CITY region males with car & 1 child : 15
+RURAL region males with car & 1 child : 9
+SUBURBAN region males with car & 1 child : 3
+TOWN region males with car & 1 child : 7
+
+Tejas Saraf
+2024-10-18 22:59:15
